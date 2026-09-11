@@ -1,5 +1,5 @@
 # Robot_DHTD18A2HN_2025 — Bluetooth Robot (UNETI)
-**Tác giả:** Trần Đăng Khoa (TranDangKhoaTechnology) · **Năm:** 2025  
+**Tác giả:** Trần Đăng Khoa (TranDangKhoaAutomation) · **Năm:** 2025  
 **Đơn vị:** Khoa Điện — Trường Đại học Kinh tế – Kỹ thuật Công nghiệp (UNETI)  
 **CLB:** CLB Robot & Technology (thuộc Khoa Điện, UNETI)
 
@@ -110,11 +110,11 @@ Robot_DHTD18A2HN_2025/
 ## Ghi công & giấy phép
 - **Tác giả:** Trần Đăng Khoa — lớp **DHTD18A2HN**, Khoa Điện, **UNETI**.  
 - **CLB:** Robot & Technology — trực thuộc **Khoa Điện, UNETI**.  
-- **Bản quyền & License:** MIT (xem `LICENSE`). Vui lòng ghi nguồn **TranDangKhoaTechnology** khi sử dụng lại.
+- **Bản quyền & License:** MIT (xem `LICENSE`). Vui lòng ghi nguồn **TranDangKhoaAutomation** khi sử dụng lại.
 
 ---
 
 ### Liên hệ
-- YouTube/Github: **TranDangKhoaTechnology**  
+- YouTube/Github: **TranDangKhoaAutomation**  
 - Email: trandangkhoa31122006@gmail.com
 - Issues/PR: chào mừng mọi đóng góp từ cộng đồng!

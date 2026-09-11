@@ -13,7 +13,7 @@
  *    Chế độ lái:  X = bật "Servo-steer": L/R sẽ quay SV4 từ từ
  *                 x = về "Drive-steer" bình thường: L/R lái bánh
  *
- *  Tác giả: Trần Đăng Khoa (CodeWithKhoa) — 2025 — MIT
+ *  Tác giả: Trần Đăng Khoa (TranDangKhoaAutomation) — 2025 — MIT
  * ================================================================
  */
 
